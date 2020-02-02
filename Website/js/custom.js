@@ -19,7 +19,7 @@
         };
     };
     navbarFixed();
-    
+
     function testimonialSlider(){
         if ( $('.testimonial_slider').length ){
             $('.testimonial_slider').owlCarousel({

@@ -21,8 +21,7 @@ Table of Content:
 
 =====================================================================*/
 
-/*Color Variables*/
-/*----------------------------------------------------*/
+
 body {
   line-height: 25px;
   font-size: 15px;
@@ -504,6 +503,7 @@ button:focus {
 }
 
 .single_causes {
+  min-height: 29.5rem;
   padding: 50px;
   border-radius: 5px;
   box-shadow: none;
