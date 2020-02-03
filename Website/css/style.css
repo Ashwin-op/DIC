@@ -400,7 +400,7 @@ button:focus {
 }
 .banner_area .banner_inner .overlay {
   background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)),
-    url(../img/banner/banner.jpg) no-repeat scroll center center;
+    url(../img/banner/home-banner.jpg) no-repeat scroll center center;
   background-size: cover;
   position: absolute;
   left: 0;
@@ -795,7 +795,7 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area {
-  background: #214B8C;
+  /* background: #214B8C; */
   background-size: cover;
   text-align: center;
   color: #fff;
@@ -807,7 +807,7 @@ button:focus {
 }
 .cta-area h1 {
   font-size: 36px;
-  color: #fff;
+  color: #000;
   margin-bottom: 20px;
 }
 .cta-area p {
