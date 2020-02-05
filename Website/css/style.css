@@ -226,7 +226,7 @@ button:focus {
   display: none;
 }
 .header_area .navbar .nav .nav-item:hover .nav-link{
-  color: #214B8C;
+  color: #73C2FB;
 }
 .header_area .navbar .nav .nav-item.active .nav-link {
   color: #73C2FB;
