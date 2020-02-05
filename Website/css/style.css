@@ -27,7 +27,7 @@ body {
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: #aaaaaa;
+  color: #fff;
 }
 
 h1,
@@ -229,8 +229,7 @@ button:focus {
   color: #214B8C;
 }
 .header_area .navbar .nav .nav-item.active .nav-link {
-  color: #214B8C;
-  border-bottom: #214B8C 4px solid;
+  color: #73C2FB;
 }
 .header_area .navbar .nav .nav-item.submenu {
   position: relative;
@@ -374,7 +373,7 @@ button:focus {
   margin-bottom: 20px;
 }
 .home_banner_area .banner_inner .banner_content p {
-  color: #f9f9ff;
+  color: #fff;
   max-width: 680px;
   margin: 0px auto 45px;
 }
@@ -3368,7 +3367,7 @@ h6 {
   }
 }
 .single-footer-widget .sm-head {
-  color: #aaaaaa;
+  color: #fff;
   margin-bottom: 0px;
 }
 .single-footer-widget .sm-head span {
@@ -3389,7 +3388,7 @@ h6 {
   margin-bottom: 12px;
 }
 .tp_widgets .list li a {
-  color: #aaaaaa;
+  color: #fff;
   font-family: "Roboto", sans-serif;
 }
 .tp_widgets .list li:last-child {
