@@ -2489,7 +2489,7 @@ h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #fff;
-  border-left: 2px solid #f8b600;
+  border-left: 2px solid #214B8C;
 }
 
 @media (max-width: 991px) {
@@ -2628,7 +2628,7 @@ h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #f8b600;
+  border: 3px solid #214B8C;
   background: #fff;
   top: 4px;
   left: 0;
