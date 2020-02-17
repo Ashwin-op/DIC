@@ -1,3 +1,3 @@
 # DIC
 
-Website for DIC, IIITDM
+The official website for DIC, IIITDM
