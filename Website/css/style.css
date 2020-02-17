@@ -21,13 +21,14 @@ Table of Content:
 
 =====================================================================*/
 
-
+/*Color Variables*/
+/*----------------------------------------------------*/
 body {
   line-height: 25px;
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: #fff;
+  color: #aaaaaa;
 }
 
 h1,
@@ -226,10 +227,11 @@ button:focus {
   display: none;
 }
 .header_area .navbar .nav .nav-item:hover .nav-link{
-  color: #73C2FB;
+  color: #214B8C;
 }
 .header_area .navbar .nav .nav-item.active .nav-link {
-  color: #73C2FB;
+  color: #214B8C;
+  border-bottom: #214B8C 4px solid;
 }
 .header_area .navbar .nav .nav-item.submenu {
   position: relative;
@@ -373,7 +375,7 @@ button:focus {
   margin-bottom: 20px;
 }
 .home_banner_area .banner_inner .banner_content p {
-  color: #fff;
+  color: #f9f9ff;
   max-width: 680px;
   margin: 0px auto 45px;
 }
@@ -399,7 +401,7 @@ button:focus {
 }
 .banner_area .banner_inner .overlay {
   background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)),
-    url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+    url(../img/banner/banner.jpg) no-repeat scroll center center;
   background-size: cover;
   position: absolute;
   left: 0;
@@ -502,7 +504,6 @@ button:focus {
 }
 
 .single_causes {
-  min-height: 29.5rem;
   padding: 50px;
   border-radius: 5px;
   box-shadow: none;
@@ -794,7 +795,7 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area {
-  /* background: #214B8C; */
+  background: #214B8C;
   background-size: cover;
   text-align: center;
   color: #fff;
@@ -806,7 +807,7 @@ button:focus {
 }
 .cta-area h1 {
   font-size: 36px;
-  color: #000;
+  color: #fff;
   margin-bottom: 20px;
 }
 .cta-area p {
@@ -2489,7 +2490,7 @@ h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #fff;
-  border-left: 2px solid #214B8C;
+  border-left: 2px solid #f8b600;
 }
 
 @media (max-width: 991px) {
@@ -2601,7 +2602,7 @@ h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 300px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2628,7 +2629,7 @@ h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #214B8C;
+  border: 3px solid #f8b600;
   background: #fff;
   top: 4px;
   left: 0;
@@ -3367,7 +3368,7 @@ h6 {
   }
 }
 .single-footer-widget .sm-head {
-  color: #fff;
+  color: #aaaaaa;
   margin-bottom: 0px;
 }
 .single-footer-widget .sm-head span {
@@ -3388,7 +3389,7 @@ h6 {
   margin-bottom: 12px;
 }
 .tp_widgets .list li a {
-  color: #fff;
+  color: #aaaaaa;
   font-family: "Roboto", sans-serif;
 }
 .tp_widgets .list li:last-child {
