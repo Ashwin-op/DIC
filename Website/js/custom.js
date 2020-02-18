@@ -19,7 +19,7 @@
         };
     };
     navbarFixed();
-    
+
     function testimonialSlider(){
         if ( $('.testimonial_slider').length ){
             $('.testimonial_slider').owlCarousel({
@@ -43,13 +43,6 @@
         }
     }
     testimonialSlider();
-    
-    //------- Mailchimp js --------//  
-
-    function mailChimp(){
-        $('#mc_embed_signup').find('form').ajaxChimp();
-    }
-    mailChimp();
     
     /* ===== Parallax Effect===== */
 	
